@@ -215,6 +215,9 @@
       "items": {
         "type": "string"
       }
+    },
+    "privileged": {
+      "type": "boolean"
     }
   },
   "required": [
