@@ -2,7 +2,7 @@
     "key": "redis",
     "label": "Redis",
     "description": "In-memory data structure store and message broker",
-    "logo": "http://redis.io/images/redis-white.png",
+    "logo": "https://nationaldataservice.atlassian.net/wiki/download/attachments/21299218/redis-small.png",
     "image": {
         "name": "redis",
         "tags": [
