@@ -30,6 +30,7 @@
         {
             "name": "CONFIG_REPO",
 			"label" : "Solr Config Repo",
+			"value" : "https://github.com/nds-org/ndslabs-hydra/trunk/solr/conf",
 			"setTo" : "solr6.CONFIG_REPO",
 			"isPassword" : false,
             "canOverride": true
