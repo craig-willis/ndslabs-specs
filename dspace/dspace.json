@@ -20,15 +20,15 @@
     "config": [
         {
             "name": "POSTGRES_SCHEMA",
-            "value": "dspace",
             "label": "Postgres Database",
-            "isPassword": false,
-            "canOverride": false
+            "canOverride": false,
+            "setTo": "postgres.POSTGRES_DB"
         },
         {
             "name": "POSTGRES_USER",
-            "useFrom" : "postgres",
-            "canOverride": false
+            "label": "Postgres User",
+            "canOverride": false,
+            "setTo": "postgres.POSTGRES_USER"
         },
         {
             "name": "POSTGRES_PASSWORD",
