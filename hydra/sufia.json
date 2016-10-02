@@ -51,7 +51,7 @@
         "path": "/",
         "port": 3000,
         "initialDelay": 15,
-        "timeout": 45
+        "timeout": 500
     },
     "resourceLimits": {
         "cpuMax": 500,
