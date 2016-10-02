@@ -48,7 +48,7 @@
     ],
     "readinessProbe": {
         "type": "http",
-        "path": "/",
+        "path": "/favicon.ico",
         "port": 3000,
         "initialDelay": 15,
         "timeout": 500
