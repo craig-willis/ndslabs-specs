@@ -21,15 +21,15 @@
   ],
   "readinessProbe": {
     "type": "http",
-    "path": "/latest-nds/latis",
+    "path": "/latis-nds/latis",
     "port": 8080,
-    "initialDelay": 10,
+    "initialDelay": 20,
     "timeout": 120
   },
   "resourceLimits": {
     "cpuMax": 500,
     "cpuDefault": 100,
-    "memMax": 500,
+    "memMax": 1000,
     "memDefault": 50
   },
   "tags": [
