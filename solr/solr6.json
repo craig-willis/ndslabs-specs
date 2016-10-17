@@ -36,7 +36,7 @@
     ],
     "readinessProbe": {
         "initialDelay": 15,
-        "path": "/",
+        "path": "/solr/healthz.txt",
         "port": 8983,
         "timeout": 45,
         "type": "http"
