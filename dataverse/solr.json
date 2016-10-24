@@ -9,7 +9,7 @@
 		"tags": ["4.2.3", "latest"]
 	},
     "ports": [
-        { "port": 8983, "protocol": "http" }
+        { "port": 8983, "protocol": "tcp" }
     ],
     "readinessProbe" : {
         "type" : "http",

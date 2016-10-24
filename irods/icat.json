@@ -16,7 +16,7 @@
         },
         {
             "port": 8080,
-            "protocol": "http"
+            "protocol": "tcp"
         }
     ],
     "config":  [
