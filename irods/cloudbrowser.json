@@ -18,7 +18,7 @@
     "config":  [
         {
             "name": "IRODS_ZONE",
-            "value": "",
+            "value": "fedZone",
             "label": "iRODS Zone",
             "canOverride": true
         }
