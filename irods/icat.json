@@ -34,9 +34,6 @@
             "isPassword": true
         }
     ],
-	"volumeMounts":[
-	   { "mountPath": "/var/lib/irods/iRODS/Vault" }
-    ],
     "depends": [
       { "key": "cloudbrowserui", "required": false }
     ],

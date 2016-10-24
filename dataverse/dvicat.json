@@ -86,9 +86,6 @@
             "isPassword": false
         }
     ],
-    "volumeMounts":[
-       { "mountPath": "/var/lib/irods/iRODS/Vault" }
-    ],
     "resourceLimits": {
         "cpuMax": 200,
         "cpuDefault": 100,

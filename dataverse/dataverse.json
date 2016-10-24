@@ -88,9 +88,6 @@
             "canOverride": false
         }
     ],
-    "volumeMounts":[
-       { "mountPath": "/usr/local/glassfish4/glassfish/domains/domain1/files" }
-    ], 
     "readinessProbe" : {
         "type" : "http",
         "path" : "/healthcheck.txt",
