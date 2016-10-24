@@ -66,6 +66,26 @@
             "name": "TWORAVENS_URL",
             "value": "https://$(NDSLABS_STACK)-tworavens.$(NDSLABS_DOMAIN)",
             "canOverride": false
+        },
+        {
+            "name": "PRESERVATION_USER",
+            "useFrom": "dvicat.PRESERVATION_USER",
+            "canOverride": false
+        },
+        {
+            "name": "PRESERVATION_PASSWORD",
+            "useFrom": "dvicat.PRESERVATION_PASSWORD",
+            "canOverride": false
+        },
+        {
+            "name": "RODS_ZONE",
+            "useFrom": "dvicat.RODS_ZONE",
+            "canOverride": false
+        },
+        {
+            "name": "CRON_FREQUENCY",
+            "useFrom": "dvicat.CRON_FREQUENCY",
+            "canOverride": false
         }
     ],
     "volumeMounts":[
