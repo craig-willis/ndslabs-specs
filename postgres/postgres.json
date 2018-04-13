@@ -5,7 +5,6 @@
     "info": "https://nationaldataservice.atlassian.net/wiki/display/NDSC/PostgreSQL",
     "logo": "/asset/png/logos/postgres-logo.png",
 	"access" :"internal",
-	"display" :"stack",
     "image": {
         "name": "postgres",
         "tags": [

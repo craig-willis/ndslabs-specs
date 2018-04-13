@@ -20,7 +20,6 @@
       { "key": "postgres", "required": true },
       { "key": "solr", "required": true },
       { "key": "rserve", "required": true},
-      { "key": "tworavens", "required": false },
       { "key": "dvicat", "required": false }
     ],
     "config":  [

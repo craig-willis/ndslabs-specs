@@ -6,7 +6,6 @@
 		"tags" : ["2.2"]
 	},
     "description": "A distributed search and analytics engine",
-	"display": "standalone",
 	"access":"internal",
 	"logo" : "/asset/png/logos/elasticsearch-logo.png",
 	"info" : "https://nationaldataservice.atlassian.net/wiki/display/NDSC/Elasticsearch",

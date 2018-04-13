@@ -11,7 +11,6 @@
             "latest"
         ]
     },
-    "display": "stack",
     "access": "internal",
     "ports": [
         {
