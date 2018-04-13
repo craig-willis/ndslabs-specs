@@ -38,9 +38,6 @@
 	"volumeMounts":[
 	   { "mountPath": "/var/lib/irods/iRODS/Vault" }
     ],
-    "depends": [
-      { "key": "cloudbrowserui", "required": false }
-    ],
     "resourceLimits": {
         "cpuMax": 400,
         "cpuDefault": 100,
